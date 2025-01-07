@@ -25,3 +25,5 @@ tải nodejs
 # React-native-
 Lap trinh di dong nang cao_ A3-206_ST3_Nhom 03CLC
 >>>>>>> 92e737500ead4e265ee36ba8bfa33aeeb44798a7
+![image](https://github.com/user-attachments/assets/b5c829fc-edac-486d-ba34-051b6bac2201)
+![image](https://github.com/user-attachments/assets/8fe0d8ff-78a0-4f1d-a811-a7a31be92d65)
