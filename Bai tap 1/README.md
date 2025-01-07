@@ -13,7 +13,7 @@ tải nodejs
 -> expo start 
 -> scan Qr trên Expo Go để thử app Android.
 # Mô tả
-Ứng dụng React Native đơn giản gồm:
+Ứng dụng React Native gồm:
 - Trang Intro:
   - Hiển thị hình ảnh cá nhân, thông tin cá nhân bao gồm:
     - Tên: Nguyễn Hoàng Nguyên
